@@ -503,7 +503,7 @@ train_model(model, train_dl, 50)
 ```
 ##           Conclusion
 
-
+It has been a good learning experience in completing this open source project under VLG group.And i want to thank [Moein]{https://github.com/moein-shariatnia} for his amazing work which helped during my learning. 
 
 
 
